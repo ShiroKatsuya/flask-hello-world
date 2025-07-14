@@ -1,1 +1,7 @@
 Flask==3.0.3
+langchain_core
+langchain_ollama
+langgraph
+langchain_google_genai
+langchain_community
+bs4
